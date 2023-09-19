@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48182f07-a55e-49d7-bffb-1dc1634b3815" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lektion_5_Scanner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sertan/scanner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sertan/scanner/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sertan/scanner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sertan/scanner/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695112321750</updated>
-      <workItem from="1695112323005" duration="5338000" />
+      <workItem from="1695112323005" duration="6083000" />
     </task>
     <servers />
   </component>
